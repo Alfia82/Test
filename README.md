@@ -1,2 +1,2 @@
 # Test
-Lad for week 3
+Lab Week 3
